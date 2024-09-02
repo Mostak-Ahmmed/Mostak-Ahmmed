@@ -1,5 +1,3 @@
-![Student ](https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/412721685_1855218598248122_8810247462433510290_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a5f93a&_nc_eui2=AeFTjnlRyC_UwAvuC5Yw1Ez566SAUtRYmfvrpIBS1FiZ-_hTlnzK4EmDcpsqE_Okz1hXoBwFgxMN2g3fx7EJslhv&_nc_ohc=d8SUpIAvRcgQ7kNvgFiXONU&_nc_ht=scontent.fdac24-5.fna&oh=00_AYD377x9vTmvN_yfZWc9cTLHmjCARUNVieG1XsX-azRasg&oe=66DB870A)
-
 
 ### Hi there 👋, Hi, I'm Mostak Ahmmed! 
 #### Student 
