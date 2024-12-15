@@ -2,7 +2,7 @@
 ### Hi there 👋, Hi, I'm Mostak Ahmmed! 
 #### Student 
 
-As a student of Computer Science and Engineering at Green University of Bangladesh, I am deeply passionate about the world of technology and problem-solving. From a young age, I have been captivated by the way computers work and how they can be used to create innovative solutions. This interest has grown over time, shaping my academic journey and guiding my career aspirations
+As a student of Computer Science and Engineering, I am deeply passionate about the world of technology and problem-solving. From a young age, I have been captivated by the way computers work and how they can be used to create innovative solutions. This interest has grown over time, shaping my academic journey and guiding my career aspirations
 
 Skills: C/ C++ /Java /Python / REACT / JS / HTML / CSS
 
