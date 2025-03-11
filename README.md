@@ -1,8 +1,8 @@
 
 ### Hi there 👋, Hi, I'm Mostak Ahmmed! 
-#### Student 
+#### Computer Science and Engineering student 
 
-As a student of Computer Science and Engineering, I am deeply passionate about the  technology and problem-solving.I have been captivated by the way computers work and how they can be used to create innovative solutions. This interest has grown over time, shaping my academic journey and guiding my career aspirations
+As a Computer Science and Engineering student, I’m passionate about technology and solving real-world problems through innovation. I’m fascinated by how computers work and love exploring ways to create impactful solutions. My journey is driven by curiosity, continuous learning, and a desire to push boundaries in tech.
 
 Skills: C/ C++ /Java /Python / REACT / JS / HTML / CSS
 
