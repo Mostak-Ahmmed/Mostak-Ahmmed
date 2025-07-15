@@ -1,16 +1,29 @@
 
-### Hi there 👋, Hi, I'm Mostak Ahmmed! 
-#### Computer Science and Engineering student 
+### 👋 Hi there, I'm Mostak Ahmmed!
+#### 🚀 Computer Science & Engineering Student | Tech Explorer | Problem Solver
 
-As a Computer Science and Engineering student, I’m passionate about technology and solving real-world problems through innovation. I’m fascinated by how computers work and love exploring ways to create impactful solutions. My journey is driven by curiosity, continuous learning, and a desire to push boundaries in tech.
+I’m a passionate Computer Science and Engineering student with a deep curiosity about how technology works. I enjoy solving real-world problems by building practical and impactful software solutions. My journey in tech is fueled by constant learning, creativity, and a drive to innovate.
 
-Skills: C/ C++ /Java /Python / REACT / JS / HTML / CSS
+---
 
-- 🔭 I’m currently working on Building projects that solve real-world problems. 
-- 🌱 I’m currently learning Artificial Intelligence & Machine Learning 
+### 💡 What I Do
+- 🔭 Currently working on real-world projects that address practical challenges  
+- 🌱 Exploring the fields of Artificial Intelligence & Machine Learning  
+- 💻 Building full-stack applications using modern web technologies  
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mostak-Ahmmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/Mostak Ahmmed)  
+### 🛠️ Tech Stack
+`C` • `C++` • `Java` • `Python` • `JavaScript` • `React` • `HTML` • `CSS` • `Git`
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Mostak-Ahmmed&show_icons=true)  
+---
+
+### 📫 Let's Connect
+[![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mostak-Ahmmed)
+
+---
+
+### 📊 GitHub Stats
+
+![Mostak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mostak-Ahmmed&show_icons=true&theme=radical)
 
